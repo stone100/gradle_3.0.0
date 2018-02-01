@@ -1,5 +1,32 @@
+*~
+*.bak
+*.pyc
+Thumbs.db
+*.class
+*.DS_Store
 .gradle
-/build/
+cygdrive
+build/
+out/
+repo/
+.idea/dictionaries/tnorbye.xml
+.idea/g3plugins.project.settings.xml
+.idea/google-java-format.xml
+.idea/saveactions_settings.xml
+.idea/shelf
+.idea/workspace.xml
+misc/distrib_plugins/build
+misc/distrib_plugins/buildSrc/build
+misc/distrib_plugins/buildSrc/out
+misc/distrib_plugins/buildSrc/buildSrc.i*
+
+
+.idea/
+*.iml
+
+
+.gradle
+.gradle/
 
 # Ignore Gradle GUI config
 gradle-app.setting
